@@ -1,2 +1,2 @@
 # Practice-code-
-just a practice project for javacript 
+just a practice repository for javacript 
