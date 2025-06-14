@@ -1,0 +1,5 @@
+let name ="hitesh"
+let age = 56
+let float = 68767.33
+
+console.log(typeof float);
